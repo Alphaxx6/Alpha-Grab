@@ -1,4 +1,4 @@
-Go to /dist there's the executable.
+Open Alpha grabber and go to /dist there's the executable.
 
 - Open Alpha.exe you'll have to choose between 1 or 2
 
