@@ -1,3 +1,5 @@
+Go to /dist there's the executable.
+
 - Open Alpha.exe you'll have to choose between 1 or 2
 
 The script will take some time to open because it has to log in into private databases.
